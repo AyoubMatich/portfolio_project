@@ -1,1 +1,2 @@
-print("hi mr blak")
+print("hi mr kin")
+print("hi")
